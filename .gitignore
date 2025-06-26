@@ -7,3 +7,6 @@
 # Optional: Ignore Python cache files
 __pycache__/
 *.pyc
+
+# transformer model
+models/
