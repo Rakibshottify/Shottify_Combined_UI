@@ -1,0 +1,28 @@
+# Core App
+streamlit
+python-dotenv
+
+# HTTP Requests & HTML Parsing
+requests
+beautifulsoup4
+
+# AI Model Client
+groq
+
+# Data Handling & Visualization
+pandas
+plotly
+
+# Date Handling
+python-dateutil
+
+# Google APIs (Fact Check & Search)
+google-api-python-client
+
+# YouTube Transcript API
+youtube-transcript-api
+
+# Optional: For secure Google auth handling, not strictly required unless expanding
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
